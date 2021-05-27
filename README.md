@@ -16,5 +16,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonMJC&layout=compact&show_icons=true&theme=synthwave)](https://github.com/SimonMJC/github-readme-stats)
 
 ### 🥑About Me🥑
-<a href="https://glwona.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a><a href="https://glwona.medium.com"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
-
+<a href="https://glwona.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
