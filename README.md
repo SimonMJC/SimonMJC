@@ -1,5 +1,8 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=Simon's%20Workspace&fontSize=70&animation=scaleIn)
+
+<img src="https://img.shields.io/badge/Kotlin-#ff8200?style=flat-square&logo=Kotlin&logoColor=white"/>
+
 <!--
 **SimonMJC/SimonMJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
